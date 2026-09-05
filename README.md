@@ -19,5 +19,5 @@ This is a repo that can be included in your project as a submodule. It defines a
 
 There are two template projects that demonstrate how this repo can be used. See the below template repos for more details;
 
-- push-dev is a [Kernel module example](https://github.com/JGuzak/push-dev) project that builds a handful of Linux kernel modules not shipped with the stock AbletonOS image for development/debugging purposes.
-- [Hello-world userspace app example]()
+- [push-dev](https://github.com/JGuzak/push-dev) is a project that builds a handful of linux kernel modules not shipped with the stock AbletonOS image for development/debugging purposes.
+- Bare hello-world[userspace app example]()
